@@ -11,10 +11,3 @@ monster-christmas
 bf-christmas
 gf-christmas
 monster
-bf-pixel
-senpai
-senpai-angry
-spirit
-tankman
-pico-speaker
-bf-holding-gf
